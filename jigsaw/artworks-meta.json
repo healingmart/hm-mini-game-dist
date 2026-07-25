@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "001": {
+      "id": "cafe-window",
+      "title": "창가의 오후 티타임",
+      "category": "카페",
+      "enabled": true
+    },
+    "002": {
+      "id": "lake-garden",
+      "title": "빛나는 호숫가 정원",
+      "category": "회화",
+      "enabled": true
+    },
+    "003": {
+      "id": "cat-library",
+      "title": "햇살 드는 고양이 서재",
+      "category": "동물",
+      "enabled": true
+    },
+    "004": {
+      "id": "sunset-village",
+      "title": "노을빛 돌담 마을",
+      "category": "여행",
+      "enabled": true
+    },
+    "005": {
+      "id": "cafe-book",
+      "title": "여행책과 브런치 테이블",
+      "category": "카페",
+      "enabled": true
+    },
+    "006": {
+      "id": "secret-garden",
+      "title": "장미가 피어난 비밀 정원",
+      "category": "정원",
+      "enabled": true
+    },
+    "007": {
+      "id": "venice-market",
+      "title": "꽃시장과 베네치아 운하",
+      "category": "회화",
+      "enabled": true
+    },
+    "008": {
+      "id": "positano-sunset",
+      "title": "포지타노의 황금빛 노을",
+      "category": "여행",
+      "enabled": true
+    },
+    "009": {
+      "id": "parrot-ocean-room",
+      "title": "바다가 보이는 앵무새 방",
+      "category": "동물",
+      "enabled": true
+    },
+    "010": {
+      "id": "paris-cafe",
+      "title": "파리 골목의 디저트 카페",
+      "category": "카페",
+      "enabled": true
+    },
+    "011": {
+      "id": "autumn-mill",
+      "title": "가을 숲속 물레방앗간",
+      "category": "회화",
+      "enabled": true
+    },
+    "012": {
+      "id": "amalfi-painting",
+      "title": "레몬 향기 가득한 해안 마을",
+      "category": "회화",
+      "enabled": true
+    },
+    "013": {
+      "id": "villa-garden",
+      "title": "토스카나 빌라 정원",
+      "category": "정원",
+      "enabled": true
+    },
+    "014": {
+      "id": "cabin-dogs",
+      "title": "벽난로 앞 두 강아지",
+      "category": "동물",
+      "enabled": true
+    },
+    "015": {
+      "id": "boho-parrots",
+      "title": "햇살 가득한 앵무새 아틀리에",
+      "category": "동물",
+      "enabled": true
+    },
+    "016": {
+      "id": "sunset-cats",
+      "title": "노을 테라스의 두 고양이",
+      "category": "동물",
+      "enabled": true
+    },
+    "017": {
+      "id": "amalfi-terrace",
+      "title": "아말피 테라스의 오후",
+      "category": "카페",
+      "enabled": true
+    }
+  }
+}

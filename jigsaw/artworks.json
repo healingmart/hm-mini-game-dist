@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-26T00:00:00.000Z",
+  "version": "20260726-002",
+  "count": 17,
+  "baseUrl": "https://healingmart.github.io/hm-mini-game-dist/jigsaw/artworks/",
+  "artworks": [
+    {
+      "number": 1,
+      "code": "001",
+      "id": "cafe-window",
+      "file": "001.webp",
+      "title": "창가의 오후 티타임",
+      "category": "카페"
+    },
+    {
+      "number": 2,
+      "code": "002",
+      "id": "lake-garden",
+      "file": "002.webp",
+      "title": "빛나는 호숫가 정원",
+      "category": "회화"
+    },
+    {
+      "number": 3,
+      "code": "003",
+      "id": "cat-library",
+      "file": "003.webp",
+      "title": "햇살 드는 고양이 서재",
+      "category": "동물"
+    },
+    {
+      "number": 4,
+      "code": "004",
+      "id": "sunset-village",
+      "file": "004.webp",
+      "title": "노을빛 돌담 마을",
+      "category": "여행"
+    },
+    {
+      "number": 5,
+      "code": "005",
+      "id": "cafe-book",
+      "file": "005.webp",
+      "title": "여행책과 브런치 테이블",
+      "category": "카페"
+    },
+    {
+      "number": 6,
+      "code": "006",
+      "id": "secret-garden",
+      "file": "006.webp",
+      "title": "장미가 피어난 비밀 정원",
+      "category": "정원"
+    },
+    {
+      "number": 7,
+      "code": "007",
+      "id": "venice-market",
+      "file": "007.webp",
+      "title": "꽃시장과 베네치아 운하",
+      "category": "회화"
+    },
+    {
+      "number": 8,
+      "code": "008",
+      "id": "positano-sunset",
+      "file": "008.webp",
+      "title": "포지타노의 황금빛 노을",
+      "category": "여행"
+    },
+    {
+      "number": 9,
+      "code": "009",
+      "id": "parrot-ocean-room",
+      "file": "009.webp",
+      "title": "바다가 보이는 앵무새 방",
+      "category": "동물"
+    },
+    {
+      "number": 10,
+      "code": "010",
+      "id": "paris-cafe",
+      "file": "010.webp",
+      "title": "파리 골목의 디저트 카페",
+      "category": "카페"
+    },
+    {
+      "number": 11,
+      "code": "011",
+      "id": "autumn-mill",
+      "file": "011.webp",
+      "title": "가을 숲속 물레방앗간",
+      "category": "회화"
+    },
+    {
+      "number": 12,
+      "code": "012",
+      "id": "amalfi-painting",
+      "file": "012.webp",
+      "title": "레몬 향기 가득한 해안 마을",
+      "category": "회화"
+    },
+    {
+      "number": 13,
+      "code": "013",
+      "id": "villa-garden",
+      "file": "013.webp",
+      "title": "토스카나 빌라 정원",
+      "category": "정원"
+    },
+    {
+      "number": 14,
+      "code": "014",
+      "id": "cabin-dogs",
+      "file": "014.webp",
+      "title": "벽난로 앞 두 강아지",
+      "category": "동물"
+    },
+    {
+      "number": 15,
+      "code": "015",
+      "id": "boho-parrots",
+      "file": "015.webp",
+      "title": "햇살 가득한 앵무새 아틀리에",
+      "category": "동물"
+    },
+    {
+      "number": 16,
+      "code": "016",
+      "id": "sunset-cats",
+      "file": "016.webp",
+      "title": "노을 테라스의 두 고양이",
+      "category": "동물"
+    },
+    {
+      "number": 17,
+      "code": "017",
+      "id": "amalfi-terrace",
+      "file": "017.webp",
+      "title": "아말피 테라스의 오후",
+      "category": "카페"
+    }
+  ]
+}
