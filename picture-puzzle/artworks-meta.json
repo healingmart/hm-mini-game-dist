@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "description": "추억의 그림 퍼즐 작품 제목과 카테고리입니다. 이미지 파일명은 001부터 999까지 3자리 숫자를 사용합니다.",
+  "items": {
+    "001": {
+      "id": 1,
+      "title": "창가 여성 고양이 노을 마을",
+      "category": "인물",
+      "enabled": true
+    },
+    "002": {
+      "id": 2,
+      "title": "책 읽는 여성 고양이 아침 창가",
+      "category": "인물",
+      "enabled": true
+    },
+    "003": {
+      "id": 3,
+      "title": "벚꽃 창가 여성",
+      "category": "인물",
+      "enabled": true
+    },
+    "004": {
+      "id": 4,
+      "title": "라벤더 들판 여성",
+      "category": "인물",
+      "enabled": true
+    },
+    "005": {
+      "id": 5,
+      "title": "비 오는 창가 여성 찻잔",
+      "category": "인물",
+      "enabled": true
+    },
+    "006": {
+      "id": 6,
+      "title": "여름 바닷가 창문 여성",
+      "category": "인물",
+      "enabled": true
+    },
+    "007": {
+      "id": 7,
+      "title": "가을 단풍 여성",
+      "category": "인물",
+      "enabled": true
+    },
+    "008": {
+      "id": 8,
+      "title": "겨울 창가 여성 흰 고양이",
+      "category": "인물",
+      "enabled": true
+    },
+    "013": {
+      "id": 13,
+      "title": "꽃밭 주황 고양이",
+      "category": "동물",
+      "enabled": true
+    },
+    "014": {
+      "id": 14,
+      "title": "책상 위 차와 고양이",
+      "category": "동물",
+      "enabled": true
+    },
+    "015": {
+      "id": 15,
+      "title": "창가 흰 고양이 비오는 도시",
+      "category": "동물",
+      "enabled": true
+    },
+    "016": {
+      "id": 16,
+      "title": "정원 강아지",
+      "category": "동물",
+      "enabled": true
+    },
+    "018": {
+      "id": 18,
+      "title": "토끼 야생화 들판",
+      "category": "동물",
+      "enabled": true
+    },
+    "020": {
+      "id": 20,
+      "title": "산책길 웰시코기 가을낙엽",
+      "category": "동물",
+      "enabled": true
+    },
+    "021": {
+      "id": 21,
+      "title": "유럽 호숫가 마을 노을",
+      "category": "여행",
+      "enabled": true
+    },
+    "022": {
+      "id": 22,
+      "title": "라벤더 언덕 오두막",
+      "category": "자연",
+      "enabled": true
+    },
+    "023": {
+      "id": 23,
+      "title": "해바라기 들판 시골집",
+      "category": "자연",
+      "enabled": true
+    },
+    "024": {
+      "id": 24,
+      "title": "바다 절벽 하얀 등대",
+      "category": "여행",
+      "enabled": true
+    },
+    "025": {
+      "id": 25,
+      "title": "비 오는 파리 골목 카페",
+      "category": "도시",
+      "enabled": true
+    },
+    "029": {
+      "id": 29,
+      "title": "꽃 창가 도자기 화병",
+      "category": "소품",
+      "enabled": true
+    },
+    "030": {
+      "id": 30,
+      "title": "오후 햇살 카페 테이블",
+      "category": "소품",
+      "enabled": true
+    },
+    "031": {
+      "id": 31,
+      "title": "오래된 서점 창가",
+      "category": "도시",
+      "enabled": true
+    },
+    "032": {
+      "id": 32,
+      "title": "피크닉 바구니 들꽃 초원",
+      "category": "소품",
+      "enabled": true
+    },
+    "034": {
+      "id": 34,
+      "title": "여행 가방 기차역",
+      "category": "소품",
+      "enabled": true
+    }
+  }
+}

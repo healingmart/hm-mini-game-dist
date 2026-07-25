@@ -1,0 +1,97 @@
+{
+  "source_artwork_count": 24,
+  "written_image_count": 24,
+  "html_bytes": 118096,
+  "embedded_image_data_count": 0,
+  "embedded_audio_data_count": 1,
+  "manifest_url_count": 1,
+  "github_image_url_count": 26,
+  "numeric_html_entities": 0,
+  "forbidden_entities": 0,
+  "innerHTML_count": 0,
+  "insertAdjacentHTML_count": 0,
+  "bad_hash_5_digit_count": 0,
+  "nonempty_css_content_count": 0,
+  "image_total_bytes": 624242,
+  "image_min_bytes": 16186,
+  "image_max_bytes": 42188,
+  "image_codes": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "013",
+    "014",
+    "015",
+    "016",
+    "018",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "029",
+    "030",
+    "031",
+    "032",
+    "034"
+  ],
+  "sha256_html": "8678cc2cc6c8e3da2d488bf1447ee004ace29162f5fbae8744a07f77e0fcc6b8",
+  "script_syntax": [
+    {
+      "index": 0,
+      "ok": true,
+      "stderr": ""
+    },
+    {
+      "index": 1,
+      "ok": true,
+      "stderr": ""
+    },
+    {
+      "index": 4,
+      "ok": true,
+      "stderr": ""
+    }
+  ],
+  "all_script_syntax_ok": true,
+  "builder_ok": true,
+  "builder_stdout": "picture-puzzle/artworks.json 생성 완료: 24개",
+  "builder_stderr": "",
+  "builder_generated_count": 24,
+  "builder_first_code": "001",
+  "builder_last_code": "034",
+  "browser_test": {
+    "method": "Chromium DevTools Protocol Page.setDocumentContent",
+    "mobile_viewport": "390x844",
+    "desktop_viewport": "1440x900",
+    "mobile_gallery_count": 24,
+    "desktop_gallery_count": 24,
+    "mobile_horizontal_overflow": false,
+    "desktop_horizontal_overflow": false,
+    "mobile_size_buttons": [
+      {
+        "label": "3 × 3",
+        "width": 109,
+        "height": 78
+      },
+      {
+        "label": "4 × 4",
+        "width": 109,
+        "height": 78
+      },
+      {
+        "label": "5 × 5",
+        "width": 109,
+        "height": 78
+      }
+    ],
+    "runtime_exception_count": 0,
+    "console_error_count": 0
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-25T20:33:12Z",
+  "version": "3.4.0-001",
+  "count": 24,
+  "baseUrl": "https://healingmart.github.io/hm-mini-game-dist/picture-puzzle/artworks/",
+  "artworks": [
+    {
+      "number": 1,
+      "code": "001",
+      "id": 1,
+      "file": "001.webp",
+      "title": "창가 여성 고양이 노을 마을",
+      "category": "인물"
+    },
+    {
+      "number": 2,
+      "code": "002",
+      "id": 2,
+      "file": "002.webp",
+      "title": "책 읽는 여성 고양이 아침 창가",
+      "category": "인물"
+    },
+    {
+      "number": 3,
+      "code": "003",
+      "id": 3,
+      "file": "003.webp",
+      "title": "벚꽃 창가 여성",
+      "category": "인물"
+    },
+    {
+      "number": 4,
+      "code": "004",
+      "id": 4,
+      "file": "004.webp",
+      "title": "라벤더 들판 여성",
+      "category": "인물"
+    },
+    {
+      "number": 5,
+      "code": "005",
+      "id": 5,
+      "file": "005.webp",
+      "title": "비 오는 창가 여성 찻잔",
+      "category": "인물"
+    },
+    {
+      "number": 6,
+      "code": "006",
+      "id": 6,
+      "file": "006.webp",
+      "title": "여름 바닷가 창문 여성",
+      "category": "인물"
+    },
+    {
+      "number": 7,
+      "code": "007",
+      "id": 7,
+      "file": "007.webp",
+      "title": "가을 단풍 여성",
+      "category": "인물"
+    },
+    {
+      "number": 8,
+      "code": "008",
+      "id": 8,
+      "file": "008.webp",
+      "title": "겨울 창가 여성 흰 고양이",
+      "category": "인물"
+    },
+    {
+      "number": 13,
+      "code": "013",
+      "id": 13,
+      "file": "013.webp",
+      "title": "꽃밭 주황 고양이",
+      "category": "동물"
+    },
+    {
+      "number": 14,
+      "code": "014",
+      "id": 14,
+      "file": "014.webp",
+      "title": "책상 위 차와 고양이",
+      "category": "동물"
+    },
+    {
+      "number": 15,
+      "code": "015",
+      "id": 15,
+      "file": "015.webp",
+      "title": "창가 흰 고양이 비오는 도시",
+      "category": "동물"
+    },
+    {
+      "number": 16,
+      "code": "016",
+      "id": 16,
+      "file": "016.webp",
+      "title": "정원 강아지",
+      "category": "동물"
+    },
+    {
+      "number": 18,
+      "code": "018",
+      "id": 18,
+      "file": "018.webp",
+      "title": "토끼 야생화 들판",
+      "category": "동물"
+    },
+    {
+      "number": 20,
+      "code": "020",
+      "id": 20,
+      "file": "020.webp",
+      "title": "산책길 웰시코기 가을낙엽",
+      "category": "동물"
+    },
+    {
+      "number": 21,
+      "code": "021",
+      "id": 21,
+      "file": "021.webp",
+      "title": "유럽 호숫가 마을 노을",
+      "category": "여행"
+    },
+    {
+      "number": 22,
+      "code": "022",
+      "id": 22,
+      "file": "022.webp",
+      "title": "라벤더 언덕 오두막",
+      "category": "자연"
+    },
+    {
+      "number": 23,
+      "code": "023",
+      "id": 23,
+      "file": "023.webp",
+      "title": "해바라기 들판 시골집",
+      "category": "자연"
+    },
+    {
+      "number": 24,
+      "code": "024",
+      "id": 24,
+      "file": "024.webp",
+      "title": "바다 절벽 하얀 등대",
+      "category": "여행"
+    },
+    {
+      "number": 25,
+      "code": "025",
+      "id": 25,
+      "file": "025.webp",
+      "title": "비 오는 파리 골목 카페",
+      "category": "도시"
+    },
+    {
+      "number": 29,
+      "code": "029",
+      "id": 29,
+      "file": "029.webp",
+      "title": "꽃 창가 도자기 화병",
+      "category": "소품"
+    },
+    {
+      "number": 30,
+      "code": "030",
+      "id": 30,
+      "file": "030.webp",
+      "title": "오후 햇살 카페 테이블",
+      "category": "소품"
+    },
+    {
+      "number": 31,
+      "code": "031",
+      "id": 31,
+      "file": "031.webp",
+      "title": "오래된 서점 창가",
+      "category": "도시"
+    },
+    {
+      "number": 32,
+      "code": "032",
+      "id": 32,
+      "file": "032.webp",
+      "title": "피크닉 바구니 들꽃 초원",
+      "category": "소품"
+    },
+    {
+      "number": 34,
+      "code": "034",
+      "id": 34,
+      "file": "034.webp",
+      "title": "여행 가방 기차역",
+      "category": "소품"
+    }
+  ]
+}
